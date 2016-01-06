@@ -1,4 +1,8 @@
-﻿using Ionic.Zlib;
+//
+// Made by Pedro Martins (github.com/pedromartins1)
+// 
+
+using Ionic.Zlib;
 using System;
 using System.Collections.Generic;
 using System.IO;
